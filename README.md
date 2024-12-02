@@ -29,12 +29,13 @@
 
 ### Redes Sociais
 <div>
-<a href="https://www.instagram.com/riicardomoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:vinicius.zoom360@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<!-- <a href="https://www.instagram.com/riicardomoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
+<!-- <a href="mailto:vinicius.zoom360@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> -->
 <a href="https://www.linkedin.com/in/viniciuswilkerdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="vwdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-vwdeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 ### Meu Site
 <div>
-<a href="vwdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-rmdeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+<a href="vwdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-vwdeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
